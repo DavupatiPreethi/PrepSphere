@@ -1,17 +1,6 @@
 # 🎯 PrepSphere — AI Mock Interview Platform
 
-<div align="center">
-
-![PrepSphere](https://img.shields.io/badge/PrepSphere-AI%20Interview%20Coach-6366f1?style=for-the-badge&logo=star&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Site-success?style=for-the-badge)](https://jocular-zabaione-4ea53b.netlify.app)
-[![Backend](https://img.shields.io/badge/⚡%20Backend-Vercel-black?style=for-the-badge)](https://y-omega-wheat.vercel.app)
-
 **Practice real interview questions with AI, speak your answers out loud, track your confidence — all in one place.**
-
-[Live Demo](https://prepsphere.netlify.app/) • [Report Bug](https://github.com/DavupatiPreethi/PrepSphere/issues) • [Request Feature](https://github.com/DavupatiPreethi/PrepSphere/issues)
-
-</div>
 
 ---
 

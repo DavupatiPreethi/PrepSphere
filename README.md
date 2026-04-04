@@ -9,7 +9,7 @@
 
 **Practice real interview questions with AI, speak your answers out loud, track your confidence — all in one place.**
 
-[Live Demo](https://jocular-zabaione-4ea53b.netlify.app) • [Report Bug](https://github.com/DavupatiPreethi/PrepSphere/issues) • [Request Feature](https://github.com/DavupatiPreethi/PrepSphere/issues)
+[Live Demo](https://prepsphere.netlify.app/) • [Report Bug](https://github.com/DavupatiPreethi/PrepSphere/issues) • [Request Feature](https://github.com/DavupatiPreethi/PrepSphere/issues)
 
 </div>
 
